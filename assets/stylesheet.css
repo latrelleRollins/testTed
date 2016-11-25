@@ -749,3 +749,7 @@ a.back-to-top:hover { color:#fff;background:rgba(0,0,0,0.35);}
 	width: 50px;
 	height: 50px;
 }
+div#sitefooter {
+    font-size: smaller;
+    font-family: cursive;
+    }
